@@ -5,4 +5,4 @@ Ana Julia Magioto - n°4
 
 #Descrição: 
 Neste trabalho,vamos apresentar o problema das calçadas de Maringá, onde a maioria delas é irregular, não tendo acessibilidade e sendo um perigo constante para os pedestres.
-Serão apresentadas possíveis soluções para o problema e também as partes interessadas nas mesmas.
+Serão apresentadas possíveis soluções para o problema e também as partes interessadas nas mesma.
