@@ -1,6 +1,6 @@
 body {
 text-align: center;
-  background: pink;
+  background: green;
   margin: 1000;
   padding: 0;
 }
@@ -64,7 +64,7 @@ li a:hover {
   position: absolute;
   width: 95%;
   height: 200px;
-  background-color: ;
+  background-color:;
   left: 0;
   border-color: rgb(3, 3, 3);
   border-width: 10px;
@@ -74,18 +74,6 @@ li a:hover {
   display: flex;
   justify-content: center;
 
-}
-.rodape {
-  position: absolute;
-  bottom: 0;
-  background-color: lightblue;
-  color: black;
-  width: 100%;
-  left: 0;
-  height: 40px;
-  display: flex;
-  justify-content: center;
-  font-size: 18px;
 }
 .conteudo {
   position: absolute;
