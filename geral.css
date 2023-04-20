@@ -1,13 +1,13 @@
 body {
 text-align: center;
-  background: green;
+  background: lightgreen;
   margin: 1000;
   padding: 0;
 }
 
 h1{
   text-align: center;
-  color: purple
+  color: black
 }
 
 .caixa1 {
